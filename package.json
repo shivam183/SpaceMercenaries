@@ -1,0 +1,34 @@
+{
+  "name": "comp397-assignment02",
+  "version": "1.0.0",
+  "description": "Second Assignment - COMP 397",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almpassos/COMP397-Assignment02.git"
+  },
+  "keywords": [],
+  "author": "Andre Luiz da Motta Passos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almpassos/COMP397-Assignment02/issues"
+  },
+  "homepage": "https://github.com/almpassos/COMP397-Assignment02#readme",
+  "dependencies": {
+    "@types/preloadjs": "^0.6.32",
+    "@types/soundjs": "^0.6.27",
+    "@types/tweenjs": "^1.0.0",
+    "easeljs": "^1.0.2",
+    "preloadjs": "^1.0.1",
+    "soundjs": "^1.0.1",
+    "tweenjs": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/easeljs": "^1.0.0",
+    "lite-server": "^2.4.0"
+  }
+}
