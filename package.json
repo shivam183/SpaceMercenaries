@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/almpassos/COMP397-Assignment02.git"
+    "url": "git+https://github.com/shivam183/SpaceMercenaries.git"
   },
   "keywords": [],
-  "author": "Andre Luiz da Motta Passos",
+  "author": "Shivam Sood",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/almpassos/COMP397-Assignment02/issues"
+    "url": "https://github.com/shivam183/SpaceMercenaries/issues"
   },
-  "homepage": "https://github.com/almpassos/COMP397-Assignment02#readme",
+  "homepage": "https://github.com/shivam183/SpaceMercenaries#readme",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "@types/preloadjs": "^0.6.32",
