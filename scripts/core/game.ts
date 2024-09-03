@@ -53,7 +53,7 @@
         { id: "stage03_music", src: "./assets/sounds/level3.mp3" },
         { id: "intro_music", src: "./assets/sounds/intro.mp3" },
         { id: "boss_music", src: "./assets/sounds/boss.mp3" },
-        { id: "end_music", src: "./assets/sounds/death.mp3" },
+        { id: "end_music", src: "./ssets/sounds/death.mp3" },
     ];
 
     function Init(): void {
